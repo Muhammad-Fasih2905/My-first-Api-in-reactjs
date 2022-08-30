@@ -1,12 +1,12 @@
 .App {
   text-align: center;
+
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
-
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -36,3 +36,107 @@
     transform: rotate(360deg);
   }
 }
+/* .navbar{
+  position: fixed;
+  width: 100%;
+  background: crimson;
+  font-family: 'ubuntu', sans-serif;
+  padding: 15px 0;
+  transition: all 0.3s ease;
+  text-decoration: none;
+}
+.navbar .sticky{
+  padding: 15px 0;
+  background-color: crimson; 
+}
+.navbar .max-width{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-decoration: none;
+
+}
+.menu{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+margin: 6px;
+text-decoration: none;
+}
+.navbar .logo a{
+  color: #fff;
+  font-size: 35px;
+  font-weight: 600;
+}
+.navbar .menu  a{
+  color: #fff;
+  font-size: 18px;
+   font-weight: 500;
+   margin-left: 25px;
+   transition: color 0.3s ease;
+   text-decoration: none;
+}
+.navbar .menu a:hover{
+color: crimson;
+}
+.home101{
+  display: flex;
+  background: #000; 
+  height: 100vh;
+  color: #fff;
+  min-width: 500px;
+  font-family: 'ubuntu', sans-serif;
+ 
+}
+.max-width{
+  margin: auto 0 auto 40px;
+}
+.home-content {
+  font-size: 27px;
+}
+.text-1{
+  font-size: 27px;
+}
+.home-content{
+  font-size: 27px;
+  font-weight: 600px;
+  margin-left: -3px;
+}
+.text-2{
+  font-size: 27px;
+  font-weight: 600px;
+  margin-left: -3px;
+}
+.home-content {
+  font-size: 29px;
+  margin: 5px 0;
+}
+.text-3{
+  font-size: 29px;
+  margin: 5px 0;
+}
+.home-content {
+  font-weight: 600;
+}
+.text-3 span{
+  font-weight: 600;
+}
+.text-3 span{
+  color: crimson;
+  font-weight: 500;
+}
+.mid-pic{
+height:  323px;
+justify-content: center;
+display: flex;
+margin-left: 870px;
+margin-top: -172px;
+}
+
+.text{
+display: flex;
+}
+.less-text{
+  display: flex;
+} */
