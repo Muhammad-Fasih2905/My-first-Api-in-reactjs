@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+}
+div{
+width: 200px;
+height: auto;
+display: flex;
+justify-content: space-between;
+flex-direction: column;
+cursor: pointer;
+}
+body {
+    background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+    height: 100px;
+    display: flex;
+    font-family: 'Anton', sans-serif;
+    justify-content: center;
+    align-items: center;
+  }
+  .bg-light:hover{
+    background-color: #C94029 !important;
+}
